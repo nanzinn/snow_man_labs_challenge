@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>ic_user</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home" transform="translate(-301.000000, -630.000000)" fill="#AFB0B8" fill-rule="nonzero">
+            <g id="ic_user" transform="translate(301.000000, 630.000000)">
+                <path d="M12,0 C16.1421562,0 19.5,3.35784375 19.5,7.5 C19.5,11.6421562 16.1421562,15 12,15 C7.85784375,15 4.5,11.6421563 4.5,7.5 C4.5,3.35784375 7.85784375,0 12,0 Z M20.5913906,15.6478594 L17.2485938,14.8121719 C13.7365781,17.3382656 9.479625,16.7745469 6.75140625,14.8121719 L3.40860938,15.6478594 C1.40535938,16.1486719 0,17.9485781 0,20.0135156 L0,21.75 C0,22.9926563 1.00734375,24 2.25,24 L21.75,24 C22.9926562,24 24,22.9926563 24,21.75 L24,20.0135156 C24,17.9485781 22.5946406,16.1486719 20.5913906,15.6478594 L20.5913906,15.6478594 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

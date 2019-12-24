@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="38px" viewBox="0 0 28 38" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>ic_pin_fill</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <ellipse id="path-1" cx="14" cy="13.8181818" rx="7.875" ry="7.77272727"></ellipse>
+        <filter x="-12.7%" y="-12.9%" width="125.4%" height="125.7%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="1.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.158899694 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ic_pin_fill">
+            <path d="M14,0 C6.28035831,0 0,6.17367159 0,13.7621027 C0,23.1795829 12.5286285,37.0049943 13.062046,37.5889481 C13.5630733,38.1374996 14.4378327,38.1365348 14.937954,37.5889481 C15.4713715,37.0049943 28,23.1795829 28,13.7621027 C28,6.17367159 21.7195662,0 14,0 Z M14,20.686201 C10.1160565,20.686201 6.95632243,17.5800683 6.95632243,13.7621027 C6.95632243,9.94413712 10.116132,6.83807865 14,6.83807865 C17.883868,6.83807865 21.0436021,9.94421134 21.0436021,13.7621769 C21.0436021,17.5801425 17.883868,20.686201 14,20.686201 Z" id="Shape" fill="#10159A" fill-rule="nonzero"></path>
+            <g id="Oval">
+                <use fill="#10159A" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <use fill="#3D42CD" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+            </g>
+        </g>
+    </g>
+</svg>

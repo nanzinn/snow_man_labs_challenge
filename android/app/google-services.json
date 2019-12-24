@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "65842293061",
+    "firebase_url": "https://snow-man-labs-challenge.firebaseio.com",
+    "project_id": "snow-man-labs-challenge",
+    "storage_bucket": "snow-man-labs-challenge.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65842293061:android:b76771d7b1a5274908362c",
+        "android_client_info": {
+          "package_name": "com.snowmanlabs.challenge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "65842293061-6c1g6qn705b3p093iudc2cfra183i2fm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_tJ-CTtM4xU-m5fHdHEgglSATgdf2-Ic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "65842293061-6c1g6qn705b3p093iudc2cfra183i2fm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

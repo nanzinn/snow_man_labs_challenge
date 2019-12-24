@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="17px" height="17px" viewBox="0 0 17 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>ic_favorite_outline</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Tourist-comment" transform="translate(-114.000000, -634.000000)" fill-rule="nonzero" stroke="#10159A" stroke-width="0.9">
+            <g id="Group-6" transform="translate(15.000000, 441.000000)">
+                <g id="Group-Copy">
+                    <g id="Group-12" transform="translate(20.000000, 194.000000)">
+                        <path d="M90.1355093,4.40021787 L88.3046715,0.521791261 C87.9766347,-0.169529495 87.0261691,-0.17831747 86.6953285,0.521791261 L84.8644907,4.40021787 L80.7682362,5.02416415 C80.0336581,5.13547851 79.7392661,6.08165056 80.2719754,6.62357573 L83.2355216,9.64078072 L82.5345883,13.9029489 C82.4084203,14.6733615 83.1850544,15.2504385 83.8355205,14.8901315 L87.5,12.8776851 L91.1644795,14.8901315 C91.8149456,15.2475092 92.5915797,14.6733615 92.4654117,13.9029489 L91.7644784,9.64078072 L94.7280246,6.62357573 C95.2607339,6.08165056 94.9663419,5.13547851 94.2317638,5.02416415 L90.1355093,4.40021787 Z" id="ic_favorite_outline"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

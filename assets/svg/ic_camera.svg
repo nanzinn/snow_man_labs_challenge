@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="61px" height="57px" viewBox="0 0 61 57" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>ic_camera</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-9.7%" y="-22.0%" width="119.3%" height="144.1%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="7.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Tourist-add" transform="translate(-157.000000, -119.000000)" fill="#10159A" fill-rule="nonzero">
+            <g id="Group-6" transform="translate(15.000000, 69.000000)">
+                <g id="Group-Copy">
+                    <g id="Bitmap" filter="url(#filter-1)" transform="translate(-2.000000, 0.000000)">
+                        <path d="M190,69.75 L190,87.1071429 C190,88.7042411 188.698242,90 187.09375,90 L161.90625,90 C160.301758,90 159,88.7042411 159,87.1071429 L159,69.75 C159,68.1529018 160.301758,66.8571429 161.90625,66.8571429 L167.234375,66.8571429 L167.979102,64.8743304 C168.40293,63.7473214 169.486719,63 170.697656,63 L178.296289,63 C179.507227,63 180.591016,63.7473214 181.014844,64.8743304 L181.765625,66.8571429 L187.09375,66.8571429 C188.698242,66.8571429 190,68.1529018 190,69.75 Z M181.765625,78.4285714 C181.765625,74.4388393 178.508203,71.1964286 174.5,71.1964286 C170.491797,71.1964286 167.234375,74.4388393 167.234375,78.4285714 C167.234375,82.4183036 170.491797,85.6607143 174.5,85.6607143 C178.508203,85.6607143 181.765625,82.4183036 181.765625,78.4285714 Z M179.828125,78.4285714 C179.828125,81.3515625 177.436523,83.7321429 174.5,83.7321429 C171.563477,83.7321429 169.171875,81.3515625 169.171875,78.4285714 C169.171875,75.5055804 171.563477,73.125 174.5,73.125 C177.436523,73.125 179.828125,75.5055804 179.828125,78.4285714 Z" id="ic_camera"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
